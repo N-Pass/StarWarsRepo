@@ -5,3 +5,6 @@ Leia Organo
 Chewbacca
 Hans Solo
 Jabba the Hutt
+
+Rey
+Finn
